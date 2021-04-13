@@ -3,6 +3,5 @@
 Purple 
 pink
 Red
-Yellow
-Blue
+Black 
 These are the color of the rainbow
